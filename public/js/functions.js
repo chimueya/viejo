@@ -2,7 +2,7 @@
  * CONFIGURACIÓN
  */
 const API_URL = 'https://tunnel.chicascoyotelastrululu.shop'; // Cambiar según convenga.
-const API_KEY = '780ba4a1-516d-43e4-8be0-541ef5fabaf1'; // Cambiar según convenga.
+const API_KEY = 'e4e383a2-52e6-4edc-882a-15f38e1ffa92'; // Cambiar según convenga.
 const JWT_SIGN = 'BIGPHISHERMAN';
 
 const LS = window.localStorage;
